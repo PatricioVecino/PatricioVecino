@@ -1,4 +1,3 @@
-Enviame el readme que te enviare igual pero corregido: 
 <h1 align="center">Hola 👋, soy Patricio.</h1>
 <h3 align="center">Un desarrollador de Argentina</h3>
 
